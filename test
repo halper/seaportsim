@@ -1,0 +1,21 @@
+port An_Ping 10004 0
+dock Pier_69 20069 10004 30091
+    pship             Watchmen 30096 10004 67.35 368.94 61.87 17.02 191 1010 95
+    pship            Unlearned 30074 10004 222.87 467.25 110.83 20.08 2314 701 701
+    pship          Confidently 30079 10004 213.14 409.82 99.99 37.18 2147 576 576
+    job         Job_17_97_19 60115 30096 26.01 crew
+    job         Job_20_52_87 60031 30096 30.06 cleaner driver
+    job         Job_46_25_36 60150 30096 28.75 craneOperator clerk stevedore
+    job         Job_98_35_92 60365 30096 60.36
+    job         Job_35_50_36 60061 30096 63.81 painter painter stevedore
+    job         Job_55_80_12 60106 30096 96.92 mate painter
+    job         Job_44_60_40 60169 30096 89.29 cleaner engineer driver
+    job         Job_61_17_44 60372 30096 108.03 driver
+    job         Job_71_70_59 60242 30096 69.57 captain
+    job         Job_92_95_20 60110 30096 107.63 crew driver
+    job         Job_45_42_95 60297 30096 114.12
+    job         Job_26_73_65 60098 30096 45.50
+    job         Job_42_76_12 60383 30096 86.64
+    job         Job_31_88_75 60012 30096 79.36 engineer mechanic
+    job         Job_15_20_84 60342 30074 60.33 inspector
+    job         Job_97_37_29 60175 30079 104.08 mechanic driver cleaner
